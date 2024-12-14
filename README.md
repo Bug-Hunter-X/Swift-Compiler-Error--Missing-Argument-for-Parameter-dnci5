@@ -1,0 +1,1 @@
+This code snippet demonstrates a common error encountered in Swift programming: forgetting to include parameter labels when calling a function with multiple parameters.  The function `calculateArea` requires both a `width` and `height`, each with its label.  Omitting the label in the second call (`area2`) results in a compiler error.
